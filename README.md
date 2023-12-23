@@ -15,6 +15,3 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]<br>
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]<br>
 [“Russia”, “Denmark”, “Kazan”] → []
-
-<h3>Блок-схема:</h3>
-![flowchart](https://github.com/Naleetso/Final/blob/main/Final.jpg)
