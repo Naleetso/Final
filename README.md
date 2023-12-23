@@ -17,4 +17,4 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 
 <h3>Блок-схема:</h3>
-![flowchart](/Final.jpg)
+![flowchart](https://github.com/Naleetso/Final/blob/main/Final.jpg)
